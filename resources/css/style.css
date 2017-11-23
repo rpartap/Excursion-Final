@@ -1,6 +1,7 @@
-h1 {font-size: 50px; text-align: center;}
-body {font-family: Veranda, sans-serif; text-aligh: center; background-color: black; color: white; font-weight: bold;}
-.cta {color: aquamarine; font-size 16px; text-align: center;}
-h2 {font-size: 42px; font-weighht: bold; text-align: center;}
-p {font-align: center;}
-.app {text-align: center;}
+html {font-family: Verdana; color: white; text-align: center;}
+h1 {font-size: 50px; font-weight: normal;}
+body {text-align: center; background-color: black;}
+.download {color: aquamarine; font-size 16px; font-weight: normal;}
+h2 {font-size: 42px; font-weight: 300;}
+p {font-size: 21px; color: gray;}
+.footer {color: gray; text-align: right;}
